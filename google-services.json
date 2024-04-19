@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339641239253",
+    "project_id": "testfcm-8df54",
+    "storage_bucket": "testfcm-8df54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339641239253:android:f268d2b78c494d44eb045c",
+        "android_client_info": {
+          "package_name": "com.keshav108.fcmExample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjsUPdV5Pn8ggAWD1z3WGu5Q_MLMEEcRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
